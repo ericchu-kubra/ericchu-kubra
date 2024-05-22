@@ -7,7 +7,7 @@
 ## 📫 Best ways to communicate with me
 - 📱 Slack - @eric.chu (Preferred)
 - 📧 Email - eric.chu@kubra.com
-- 💻 MS Teams - eric.chuhearst.com
+- 💻 MS Teams - eric.chu@hearst.com
 <!--
 **ericchu-kubra/ericchu-kubra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
